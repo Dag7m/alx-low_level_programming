@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - Where the program starts
- * return: 0 means no error
+ * Return: 0 means no error(Success)
  */
 int main(void)
 {
