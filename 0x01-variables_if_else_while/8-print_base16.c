@@ -8,6 +8,7 @@
 int main(void)
 {
 	int i;
+	char alpha[6] = "abcdef"
 
 	for (i = 0; i < 10; i++)
 	{
@@ -15,7 +16,7 @@ int main(void)
 	}
 	for (i = 0; i < 6; i++)
 	{
-		putchar(i);
+		putchar(alpha[i]);
 	}
 	putchar('\n');
 	return (0);
