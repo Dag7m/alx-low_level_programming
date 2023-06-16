@@ -8,7 +8,7 @@
 int main(void)
 {
 	int i;
-	char alpha[6] = "abcdef"
+	char alpha[6] = "abcdef";
 
 	for (i = 0; i < 10; i++)
 	{
