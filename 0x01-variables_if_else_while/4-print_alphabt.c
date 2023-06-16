@@ -10,12 +10,12 @@
 int main(void)
 {
 	int i;
-
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	for (i = 0; i < 26; i++)
 	{
 		if (i != 4 && i != 16)
 		{
-			putchar(i);
+			putchar(alp[i]);
 		}
 	}
 	putchar('\n');
