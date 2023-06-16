@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /*
- * main - code starts here
+ * main - Determines if a number is positive, negative or zero
  * Return : 0 is success
 */
 int main(void)
