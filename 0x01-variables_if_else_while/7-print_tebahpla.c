@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the lowercase alphabet in backward smiling
- * 
+ * main - prints the lowercase alphabet in backward smiling.
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
